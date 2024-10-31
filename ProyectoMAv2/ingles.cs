@@ -10,7 +10,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace ProyectoMA
+namespace ProyectoMAv2
 {
 	/// <summary>
 	/// Description of Ingles.

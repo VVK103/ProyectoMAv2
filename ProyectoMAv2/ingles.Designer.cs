@@ -6,7 +6,7 @@
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
-namespace ProyectoMA
+namespace ProyectoMAv2
 {
 	partial class Ingles
 	{
@@ -36,7 +36,6 @@ namespace ProyectoMA
 		/// </summary>
 		private void InitializeComponent()
 		{
-			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Ingles));
 			this.lblverbotobe = new System.Windows.Forms.Label();
 			this.lblpronom = new System.Windows.Forms.Label();
 			this.lblpronom2 = new System.Windows.Forms.Label();
@@ -56,14 +55,12 @@ namespace ProyectoMA
 			this.lblneg4 = new System.Windows.Forms.Label();
 			this.lblneg3 = new System.Windows.Forms.Label();
 			this.lblneg5 = new System.Windows.Forms.Label();
-			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.lblwe = new System.Windows.Forms.Label();
 			this.lblthey = new System.Windows.Forms.Label();
 			this.lblafirmativo2 = new System.Windows.Forms.Label();
 			this.lblafirmativo = new System.Windows.Forms.Label();
 			this.llblnegthey = new System.Windows.Forms.Label();
 			this.lblnegwe = new System.Windows.Forms.Label();
-			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
 			// 
 			// lblverbotobe
@@ -256,17 +253,6 @@ namespace ProyectoMA
 			this.lblneg5.TabIndex = 18;
 			this.lblneg5.Text = "is not";
 			// 
-			// pictureBox1
-			// 
-			this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-			this.pictureBox1.InitialImage = null;
-			this.pictureBox1.Location = new System.Drawing.Point(503, 95);
-			this.pictureBox1.Name = "pictureBox1";
-			this.pictureBox1.Size = new System.Drawing.Size(319, 254);
-			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-			this.pictureBox1.TabIndex = 19;
-			this.pictureBox1.TabStop = false;
-			// 
 			// lblwe
 			// 
 			this.lblwe.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
@@ -331,14 +317,13 @@ namespace ProyectoMA
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(883, 453);
+			this.ClientSize = new System.Drawing.Size(496, 453);
 			this.Controls.Add(this.llblnegthey);
 			this.Controls.Add(this.lblnegwe);
 			this.Controls.Add(this.lblafirmativo2);
 			this.Controls.Add(this.lblafirmativo);
 			this.Controls.Add(this.lblthey);
 			this.Controls.Add(this.lblwe);
-			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.lblneg5);
 			this.Controls.Add(this.lblneg3);
 			this.Controls.Add(this.lblneg4);
@@ -360,7 +345,6 @@ namespace ProyectoMA
 			this.Controls.Add(this.lblverbotobe);
 			this.Name = "Ingles";
 			this.Text = "Ingles";
-			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			this.ResumeLayout(false);
 		}
 		private System.Windows.Forms.Label lblnegwe;
@@ -369,7 +353,6 @@ namespace ProyectoMA
 		private System.Windows.Forms.Label lblafirmativo2;
 		private System.Windows.Forms.Label lblthey;
 		private System.Windows.Forms.Label lblwe;
-		private System.Windows.Forms.PictureBox pictureBox1;
 		private System.Windows.Forms.Label lblneg5;
 		private System.Windows.Forms.Label lblneg3;
 		private System.Windows.Forms.Label lblneg4;
