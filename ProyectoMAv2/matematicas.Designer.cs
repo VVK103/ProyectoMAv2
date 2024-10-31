@@ -1,14 +1,14 @@
 ﻿/*
  * Created by SharpDevelop.
  * User: CC2_PC34
- * Date: 30/10/2024
- * Time: 08:06 a. m.
+ * Date: 31/10/2024
+ * Time: 07:48 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 namespace ProyectoMAv2
 {
-	partial class matematicas
+	partial class Matematicas
 	{
 		/// <summary>
 		/// Designer variable used to keep track of non-visual components.
@@ -37,11 +37,11 @@ namespace ProyectoMAv2
 		private void InitializeComponent()
 		{
 			// 
-			// matematicas
+			// Matematicas
 			// 
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.Text = "matematicas";
-			this.Name = "matematicas";
+			this.Text = "Matematicas";
+			this.Name = "Matematicas";
 		}
 	}
 }

@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
  * User: CC2_PC34
- * Date: 30/10/2024
- * Time: 08:08 a. m.
+ * Date: 31/10/2024
+ * Time: 07:45 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace ProyectoMAv2
 {
 	/// <summary>
-	/// Description of artes.
+	/// Description of c.
 	/// </summary>
-	public partial class artes : Form
+	public partial class c : Form
 	{
-		public artes()
+		public c()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.

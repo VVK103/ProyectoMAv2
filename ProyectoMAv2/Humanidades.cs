@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
  * User: CC2_PC34
- * Date: 30/10/2024
- * Time: 08:11 a. m.
+ * Date: 31/10/2024
+ * Time: 07:47 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace ProyectoMAv2
 {
 	/// <summary>
-	/// Description of Humanidades.
+	/// Description of humanidades.
 	/// </summary>
-	public partial class Humanidades : Form
+	public partial class humanidades : Form
 	{
-		public Humanidades()
+		public humanidades()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.

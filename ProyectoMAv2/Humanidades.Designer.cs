@@ -1,14 +1,14 @@
 ﻿/*
  * Created by SharpDevelop.
  * User: CC2_PC34
- * Date: 30/10/2024
- * Time: 08:11 a. m.
+ * Date: 31/10/2024
+ * Time: 07:47 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 namespace ProyectoMAv2
 {
-	partial class Humanidades
+	partial class humanidades
 	{
 		/// <summary>
 		/// Designer variable used to keep track of non-visual components.
@@ -37,11 +37,11 @@ namespace ProyectoMAv2
 		private void InitializeComponent()
 		{
 			// 
-			// Humanidades
+			// humanidades
 			// 
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.Text = "Humanidades";
-			this.Name = "Humanidades";
+			this.Text = "humanidades";
+			this.Name = "humanidades";
 		}
 	}
 }

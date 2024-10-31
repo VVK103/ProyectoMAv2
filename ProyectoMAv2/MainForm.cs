@@ -32,32 +32,32 @@ namespace ProyectoMAv2
 		
 		void BtnmatematicasClick(object sender, EventArgs e)
 		{
-			matematicas matematicas = new matematicas();
-			matematicas.Show();
+			Matematicas Matematicas = new Matematicas();
+			Matematicas.Show();
 		}
 		
 		void BtninglesClick(object sender, EventArgs e)
 		{
-			ingles ingles = new ingles();
-			ingles.Show();
+			Ingles Ingles = new Ingles();
+			Ingles.Show();
 		}
 		
 		void BtnfisicaClick(object sender, EventArgs e)
 		{
-			fisica fisica = new fisica();
-			fisica.Show();
+			Fisica Fisica = new Fisica();
+			Fisica.Show();
 		}
 		
 		void Btnmateria1Click(object sender, EventArgs e)
 		{
-			artes artes = new artes();
-			artes.Show();
+			c c = new c();
+			c.Show();
 		}
 		
 		void Btnmateria2Click(object sender, EventArgs e)
 		{
-			Humanidades Humanidades = new Humanidades();
-			Humanidades.Show();
+			humanidades humanidades = new humanidades();
+			humanidades.Show();
 		}
 	}
 }

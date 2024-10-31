@@ -47,29 +47,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="artes.cs" />
-    <Compile Include="artes.Designer.cs">
-      <DependentUpon>artes.cs</DependentUpon>
+    <Compile Include="c.cs" />
+    <Compile Include="c.Designer.cs">
+      <DependentUpon>c.cs</DependentUpon>
     </Compile>
-    <Compile Include="fisica.cs" />
-    <Compile Include="fisica.Designer.cs">
-      <DependentUpon>fisica.cs</DependentUpon>
+    <Compile Include="Fisica.cs" />
+    <Compile Include="Fisica.Designer.cs">
+      <DependentUpon>Fisica.cs</DependentUpon>
     </Compile>
-    <Compile Include="Humanidades.cs" />
-    <Compile Include="Humanidades.Designer.cs">
-      <DependentUpon>Humanidades.cs</DependentUpon>
+    <Compile Include="humanidades.cs" />
+    <Compile Include="humanidades.Designer.cs">
+      <DependentUpon>humanidades.cs</DependentUpon>
     </Compile>
-    <Compile Include="ingles.cs" />
-    <Compile Include="ingles.Designer.cs">
-      <DependentUpon>ingles.cs</DependentUpon>
+    <Compile Include="Ingles.cs" />
+    <Compile Include="Ingles.Designer.cs">
+      <DependentUpon>Ingles.cs</DependentUpon>
     </Compile>
     <Compile Include="MainForm.cs" />
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="matematicas.cs" />
-    <Compile Include="matematicas.Designer.cs">
-      <DependentUpon>matematicas.cs</DependentUpon>
+    <Compile Include="Matematicas.cs" />
+    <Compile Include="Matematicas.Designer.cs">
+      <DependentUpon>Matematicas.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
