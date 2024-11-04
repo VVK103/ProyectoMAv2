@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: CC2_PC34
- * Date: 31/10/2024
- * Time: 07:47 a. m.
+ * User: CC2_PC31
+ * Date: 30/10/2024
+ * Time: 07:37 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -28,5 +28,7 @@ namespace ProyectoMAv2
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		
 	}
 }
