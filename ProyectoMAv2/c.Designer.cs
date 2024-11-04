@@ -6,7 +6,7 @@
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
-namespace ProyectoMA
+namespace ProyectoMAv2
 {
 	partial class c
 	{
