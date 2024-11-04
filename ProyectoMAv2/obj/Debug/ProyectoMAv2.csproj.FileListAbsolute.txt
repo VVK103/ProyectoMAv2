@@ -12,3 +12,10 @@ C:\Users\CC2_PC34\Documents\ProyectoMAv2\ProyectoMAv2\obj\Debug\ProyectoMAv2.exe
 C:\Users\CC2_PC34\Documents\ProyectoMAv2\ProyectoMAv2\bin\Debug\ProyectoMAv2.exe
 C:\Users\CC2_PC34\Documents\ProyectoMAv2\ProyectoMAv2\bin\Debug\ProyectoMAv2.pdb
 C:\Users\CC2_PC34\Documents\ProyectoMAv2\ProyectoMAv2\obj\Debug\ProyectoMAv2.pdb
+C:\Users\CC2_PC32\Documents\ProyectoMAv2\ProyectoMAv2\obj\Debug\ProyectoMAv2.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC32\Documents\ProyectoMAv2\ProyectoMAv2\obj\Debug\ProyectoMAv2.MainForm.resources
+C:\Users\CC2_PC32\Documents\ProyectoMAv2\ProyectoMAv2\obj\Debug\ProyectoMAv2.csproj.GenerateResource.Cache
+C:\Users\CC2_PC32\Documents\ProyectoMAv2\ProyectoMAv2\obj\Debug\ProyectoMAv2.exe
+C:\Users\CC2_PC32\Documents\ProyectoMAv2\ProyectoMAv2\bin\Debug\ProyectoMAv2.exe
+C:\Users\CC2_PC32\Documents\ProyectoMAv2\ProyectoMAv2\bin\Debug\ProyectoMAv2.pdb
+C:\Users\CC2_PC32\Documents\ProyectoMAv2\ProyectoMAv2\obj\Debug\ProyectoMAv2.pdb
